@@ -1291,7 +1291,7 @@ input[type="text"] {
 }
 .fh5co-cover, #fh5co-header{
   background-image: url(../img/cover.jpg);
-    height: 537px;
+    height: 100vh;
     background-position: center !important;
     background-repeat: no-repeat;
    background-position: right 0px bottom;

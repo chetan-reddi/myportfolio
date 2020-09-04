@@ -1290,7 +1290,7 @@ input[type="text"] {
   opacity: 0;
 }
 .fh5co-cover, #fh5co-header{
-  background-image: url(img/cover.jpg);
+  background-image: url(../img/cover.jpg);
     height: 537px;
     background-position: center !important;
     background-repeat: no-repeat;

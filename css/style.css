@@ -1289,7 +1289,7 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
-#fh5co-header{
+.fh5co-cover{
   background-image: url(img/cover.jpg);
     height: 537px;
     background-position: center !important;
